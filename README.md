@@ -48,10 +48,10 @@ $ forge fmt
 $ forge snapshot
 ```
 
-### Anvil
+### Use Anvil start local blockchain node
 
 ```shell
-$ anvil
+$ anvil --hardfork cancun 
 ```
 
 ### Deploy
