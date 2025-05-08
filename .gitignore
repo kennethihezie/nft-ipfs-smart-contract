@@ -1,11 +1,9 @@
 # Compiler files
 cache/
-out/
+artifact/
 
 # Ignores development broadcast logs
-!/broadcast
-/broadcast/*/31337/
-/broadcast/**/dry-run/
+broadcast/
 
 # Docs
 docs/
